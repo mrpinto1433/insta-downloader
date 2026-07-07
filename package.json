@@ -1,0 +1,16 @@
+{
+  "name": "insta-video-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Instagram video/reel downloader - paste link and download. Deploy on Vercel.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

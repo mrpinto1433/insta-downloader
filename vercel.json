@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "pages/api/file.js": {
+      "maxDuration": 60
+    },
+    "pages/api/download.js": {
+      "maxDuration": 30
+    }
+  }
+}
